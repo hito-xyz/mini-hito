@@ -1,7 +1,8 @@
-# Introducing the [mini-hito](https://mini.hito.dev)
+# Welcome to the [Mini-Hito](https://mini.hito.dev) for Hold Wallets, 
+Only on GitHub
 
 ## Mini Hito Wallet Summary
-An open-source, no-tracking web interface hosted on GitHub Pages for the Hito hardware wallet, primarily designed for integration with other software wallets, supporting over 1,500 EVM-compatible chains and 2,500+ tokens, and capable of creating basic and ERC20 transactions as a backup.
+An open-source, no-tracking web interface hosted on GitHub Pages for the **Hito and Hold hardware wallets**, primarily designed for integration with other software wallets, supporting over 1,500 EVM-compatible chains and 2,500+ tokens, and capable of creating basic and ERC20 transactions as a backup.
 
 ## Mini Hito Wallet Detail
 The **mini Hito wallet** is an open-source, client-side web application hosted on GitHub Pages that serves as a no-tracking interface for the Hito and Hold hardware wallets. The mini Hito allows users to securely manage their cryptocurrencies through the Hito device without compromising privacy. **Supporting over 1,500 EVM-compatible chains and more than 2,500 tokens, it offers extensive compatibility and flexibility.**
